@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(85, 200, 255);
+    font-style: ;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+    
+}
+ul span{
+    text-transform: uppercase;
+    font-weight: bold;
+}
